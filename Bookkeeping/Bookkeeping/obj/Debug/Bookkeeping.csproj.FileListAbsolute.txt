@@ -1,0 +1,15 @@
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\bin\Debug\Bookkeeping.exe.config
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping.csprojResolveAssemblyReference.cache
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\MainWindow.baml
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\price.baml
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\MainWindow.g.cs
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\price.g.cs
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\App.g.cs
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping_MarkupCompile.cache
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping.g.resources
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping.Properties.Resources.resources
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping.csproj.GenerateResource.Cache
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\bin\Debug\Bookkeeping.exe
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\bin\Debug\Bookkeeping.pdb
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping.exe
+C:\Users\dma\Desktop\Bookkeeping\Bookkeeping\obj\Debug\Bookkeeping.pdb
